@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(38, 119, 81)7);
+}
+h2{
+    color: rgb(233, 233, 233)), 195, 255);
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+h4 {
+    color: rgb(10, 85, 54);
+}
+
+body {
+    background-color: lavender;
+
+    text-align: center;
+}
+.imagem1 {
+    width: 40%;
+}
+.imagemcentralizada {
+ text-align: center;
+}
+
+.unicornio {
+    font-style: initial;
+
+}
+.brilho {
+   color: rgb(228, 215, 222);
+    font-style: italic
+}
+nav a:hover {
+    color: rgb(33, 82, 40);
+    text-decoration: underline;
+}
